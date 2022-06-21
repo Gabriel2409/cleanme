@@ -6,7 +6,7 @@
 			"source.organizeImports": true
 		}
 	},
-	"python.testing.pytestArgs": ["gilded_rose", "kedrotraining"],
+	"python.testing.pytestArgs": ["gilded_rose"],
 	"python.testing.unittestEnabled": false,
 	"python.testing.pytestEnabled": true
 }
